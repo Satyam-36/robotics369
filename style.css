@@ -37,7 +37,7 @@
 .image{
     position: relative;
     height: 375px;
-    width: 350px;
+    width: 340px;
     filter: grayscale(100%);
     object-fit: cover;
 
@@ -61,7 +61,7 @@ h3{
         display: block;
         color: white;
         margin-top: 320px;
-        margin-left: 20px;
+        margin-left: 10px;
     }
     filter: grayscale(0%);
     transform: scale(1.1);
