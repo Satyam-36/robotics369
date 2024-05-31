@@ -26,7 +26,7 @@
     width: 100%;
     height: auto;
     display: grid;
-    grid-template-columns: repeat(auto-fit,minmax(300px,400px));
+    grid-template-columns: repeat(auto-fit,minmax(280px,400px));
     justify-content: center;
     grid-gap: 3rem;
     padding: 2rem;
@@ -37,7 +37,7 @@
 .image{
     position: relative;
     height: 375px;
-    width: 340px;
+    width: 350px;
     filter: grayscale(100%);
     object-fit: cover;
 
