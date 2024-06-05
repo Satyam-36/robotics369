@@ -53,7 +53,7 @@ body {
   .pchoose{
     display: flex;
     gap: 10vmin;
-    padding: 1vmin 1vmin;
+    padding: 5vmin 1vmin;
   }
 
   .playerX{
